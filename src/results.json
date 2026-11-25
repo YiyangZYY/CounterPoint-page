@@ -1,0 +1,194 @@
+[
+  {
+    "dataset": "Cluster",
+    "name": "GRAM",
+    "cp": false,
+    "scores": [
+      25.7,
+      25.5,
+      3.2,
+      58.2,
+      18.1
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "HyperGRAM",
+    "cp": false,
+    "scores": [
+      25.8,
+      25.9,
+      3.3,
+      58.3,
+      18.4
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "PMRL",
+    "cp": false,
+    "scores": [
+      24.2,
+      24.7,
+      3.1,
+      56.9,
+      17.3
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "TRIANGLE",
+    "cp": false,
+    "scores": [
+      27.3,
+      27.4,
+      3.4,
+      58.5,
+      19.4
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "GRAM",
+    "cp": true,
+    "scores": [
+      56.3,
+      56.5,
+      3.3,
+      80.8,
+      38.7
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "HyperGRAM",
+    "cp": true,
+    "scores": [
+      57.1,
+      56.8,
+      3.4,
+      80.8,
+      39.1
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "PMRL",
+    "cp": true,
+    "scores": [
+      56.0,
+      55.9,
+      3.4,
+      81.0,
+      38.4
+    ]
+  },
+  {
+    "dataset": "Cluster",
+    "name": "TRIANGLE",
+    "cp": true,
+    "scores": [
+      58.4,
+      58.0,
+      3.5,
+      81.1,
+      40.0
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "GRAM",
+    "cp": false,
+    "scores": [
+      14.0,
+      5.6,
+      10.1,
+      69.3,
+      9.9
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "HyperGRAM",
+    "cp": false,
+    "scores": [
+      12.4,
+      5.4,
+      7.8,
+      65.6,
+      8.5
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "PMRL",
+    "cp": false,
+    "scores": [
+      10.5,
+      4.6,
+      7.4,
+      64.9,
+      7.5
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "TRIANGLE",
+    "cp": false,
+    "scores": [
+      12.4,
+      5.5,
+      8.2,
+      66.3,
+      8.7
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "GRAM",
+    "cp": true,
+    "scores": [
+      97.7,
+      73.5,
+      94.8,
+      97.3,
+      88.7
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "HyperGRAM",
+    "cp": true,
+    "scores": [
+      97.7,
+      73.3,
+      94.0,
+      97.2,
+      88.3
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "PMRL",
+    "cp": true,
+    "scores": [
+      96.9,
+      72.4,
+      93.8,
+      96.6,
+      87.7
+    ]
+  },
+  {
+    "dataset": "HAVdb",
+    "name": "TRIANGLE",
+    "cp": true,
+    "scores": [
+      97.2,
+      71.5,
+      93.7,
+      96.8,
+      87.4
+    ]
+  }
+]
